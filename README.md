@@ -7,6 +7,9 @@ analysis and BI context.
 The focus is on practical usability, interpretability, and maintainability rather
 than on complex models or production infrastructure.
 
+## Demo
+https://decision-support-demo-2026-python.streamlit.app/
+
 ---
 
 ## Overview
